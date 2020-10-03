@@ -384,7 +384,7 @@ function getMicDevices() {
 
 // use tokens for added security
 function generateToken() {
-  return null; // TODO: add a token generation
+  return '006191e7572d04c4dc69dcb08a63e8d8223IACF/2/K9XAyHnATZu4H/mnh1p4UdT5HZN6E8XKpeKSCZJaj1ogAAAAAEAA8TtCoDml5XwEAAQAOaXlf'; // TODO: add a token generation
 }
 
 function rotateModel(uid, direction, send) {
