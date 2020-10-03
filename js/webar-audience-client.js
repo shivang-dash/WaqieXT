@@ -3,7 +3,7 @@
 var client = AgoraRTC.createClient({mode: 'live', codec: 'vp8'}); // vp8 to work across mobile devices
 
 const agoraAppId = '191e7572d04c4dc69dcb08a63e8d8223'; // insert Agora AppID here
-const channelName = 'WebAR'; 
+const channelName = 'WXT'; 
 var streamCount = 0;
 
 // set log level:
